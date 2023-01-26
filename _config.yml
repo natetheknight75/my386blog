@@ -20,8 +20,7 @@
 
 title: Nathan Nelson's Blog # Make a title for your blog
 email: natetheknight@gmail.com # Add your email 
-description: >- # this means to ignore newlines until "baseurl:"
- We're gonna change the world of coding as we know it. 
+description: "We're gonna change the world of coding as we know it."
 baseurl: "/my386blog" # keep this the same or change it to the name of the repository 
 url: "https://<natetheknight75>.github.io" #  change this to "https://<your-github-username>.github.io"
 image: /assets/images/pexels-pixabay-65894.jpg
