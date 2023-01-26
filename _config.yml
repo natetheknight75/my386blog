@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
  We're gonna change the world of coding as we know it. 
 baseurl: "/my386blog" # keep this the same or change it to the name of the repository 
 url: "https://<natetheknight75>.github.io" #  change this to "https://<your-github-username>.github.io"
-image: /assets/images/image5.jpg
+image: /assets/images/pexels-pixabay-65894.jpg
 author: Nathan Nelson
 copyright: ABCD # Your initials or what you want the copyright to be.  Leave empty for no copyright
 
